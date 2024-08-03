@@ -1,0 +1,5 @@
+playwright
+python-dotenv
+rich
+requests
+pillow
